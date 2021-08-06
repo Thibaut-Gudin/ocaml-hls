@@ -26,4 +26,8 @@ cordova plugin add hls
 
 ## How to use it?
 
+See the [hls
+API](https://github.com/video-dev/hls.js/blob/master/docs/API.md) for
+more details
+
 [TODO]
