@@ -384,7 +384,7 @@ val set_request_media_key_system_access_func :
 
 val new_hls : ?config:config -> unit -> hls_item [@@js.new "Hls"]
 
-val get_config : hls_item -> config [@@js.get]
+val get_config : hls_item -> config [@@js.get "config"]
 
 [@@@js.stop]
 
